@@ -2,7 +2,11 @@ body {
 	background-color: silver;
 	color: white;
 	font-family: 'Roboto', sans-serif;
-	background: linear-gradient(to right, blanchedalmond, silver);
+/*	background: linear-gradient(to right, blanchedalmond, silver);
+*/
+	
+	background: linear-gradient(to right, #391313, #ccccff)
+	
 	/*
 	background-image: url("images/logo4.png");
     background-repeat: no-repeat;
